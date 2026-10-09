@@ -8,4 +8,5 @@ Changes:
 This is my first mod for spore!
 
 Not compatible with better save warnings, as this mod changes every error message and 'hint' popup that's not downright unused and technically serves the same purpose because of that. If you need to CLEARLY understand why your creation won't save I recommend using that mod instead
+
 <img width="576" height="472" alt="rude1" src="https://github.com/user-attachments/assets/cb9b450b-8bb5-4765-bc84-0b67f3b86c3a" />
